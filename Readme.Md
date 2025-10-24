@@ -114,4 +114,5 @@ uvicorn main:app --reload
 
 ## Contact
 
-For questions or support, contact **Your Name / Email**.
+
+For questions or support, contact **Sudesh Patil/ Sudeshrpatil20121@gmail.com**.
